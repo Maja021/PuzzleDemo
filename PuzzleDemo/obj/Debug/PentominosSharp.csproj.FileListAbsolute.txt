@@ -1,0 +1,6 @@
+C:\Users\MAJA\Desktop\PuzzleDemo\bin\Debug\PentominosSharp.exe
+C:\Users\MAJA\Desktop\PuzzleDemo\bin\Debug\PentominosSharp.pdb
+C:\Users\MAJA\Desktop\PuzzleDemo\obj\Debug\Puzzle.formPuzzle.resources
+C:\Users\MAJA\Desktop\PuzzleDemo\obj\Debug\PentominosSharp.csproj.GenerateResource.Cache
+C:\Users\MAJA\Desktop\PuzzleDemo\obj\Debug\PentominosSharp.exe
+C:\Users\MAJA\Desktop\PuzzleDemo\obj\Debug\PentominosSharp.pdb

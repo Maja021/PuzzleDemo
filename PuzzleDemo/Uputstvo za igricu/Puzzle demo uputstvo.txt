@@ -1,0 +1,10 @@
+U prilogu dokumenta je data fotografija puzzli nakon krajnjeg rešenja.
+Puzzle sadrže meni bar gde se igrica može ponovo pokrenuti.
+Tabla za puzzle je 10x5
+
+
+Tehnologija:
+
+Igrica je pravljena pomocu C# windows forme.
+Postoje dve klase, u jednoj su definisani oblici koji su u sinhronizaciji 
+sa matricom koja je definisana u formiPuzzle.cs gde se nalazi i meni za ponovo pokretanje igrice, kao i tabla koja je staticna. Nakon što se tabla ispuni oblicima , dobija se odgovarajuca poruka.
